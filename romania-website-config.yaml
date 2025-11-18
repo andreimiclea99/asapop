@@ -1,0 +1,40 @@
+---
+# Website Configuration for Romania Opinion Polls
+# This configures the website build with graphs and visualizations
+
+areaConfigurations:
+- areaCode: "ro"
+  csvConfiguration:
+    electoralListKeys:
+    - "RO001"  # PSD
+    - "RO002"  # PNL
+    - "RO003"  # AUR
+    - "RO004"  # USR
+    - "RO005"  # UDMR
+  elections:
+    european:
+      dates:
+        5: "2019-05-26"
+        6: "2024-06-09"
+        7: "≈2029-06-09"
+    national:
+      dates:
+        17: "2016-12-11"
+        18: "2020-12-06"
+        19: "≤2024-12-31"
+      gitHubWebsiteUrl: "https://andreimiclea99.github.io/romanian_polls"
+    presidential:
+      dates:
+        8: "2014-11-02+(2014-11-16)"
+        9: "2019-11-10+(2019-11-24)"
+        10: "2024-11-24+(2024-12-08)"
+  translations:
+    en: "Romania"
+    ro: "România"
+    de: "Rumänien"
+    fr: "Roumanie"
+    nl: "Roemenië"
+
+widgetsConfiguration:
+  tableFontFamily: "sans-serif"
+  tableStylesheets: []
