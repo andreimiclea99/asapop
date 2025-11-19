@@ -17,9 +17,9 @@ echo "Step 1: Building kolektoj..."
 echo "-------------------------------"
 git clone https://github.com/filipvanlaenen/kolektoj.git
 cd kolektoj
-# Checkout commit before the breaking API change (Nov 7, 2025)
-# Commit 924f412 added OrderedCollection getValues() which conflicts with nombrajkolektoj
-git checkout d92a3b9
+# Checkout commit from Sept 23, 2025 (compatible with nombrajkolektoj from Sept 26)
+# Later commits in Nov 2025 have breaking API changes
+git checkout 657cc5c
 mvn clean install -DskipTests
 cd ..
 
