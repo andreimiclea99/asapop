@@ -2,6 +2,9 @@
 # Website Configuration for Romania Opinion Polls
 # This configures the website build with graphs and visualizations
 
+id: "romania-polls"
+name: "Romania Opinion Polls"
+
 areaConfigurations:
 - areaCode: "ro"
   csvConfiguration:
