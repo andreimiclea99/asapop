@@ -28,7 +28,6 @@ areaConfigurations:
         17: "2016-12-11"
         18: "2020-12-06"
         19: "≤2024-12-31"
-      gitHubWebsiteUrl: "https://andreimiclea99.github.io/romanian_polls"
     presidential:
       dates:
         8: "2014-11-02+(2014-11-16)"
