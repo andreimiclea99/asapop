@@ -5,12 +5,15 @@
 areaConfigurations:
 - areaCode: "ro"
   csvConfiguration:
-    electoralListKeys:
-    - "RO001"  # PSD
-    - "RO002"  # PNL
-    - "RO003"  # AUR
-    - "RO004"  # USR
-    - "RO005"  # UDMR
+    electoralListIds:
+    - "RO001"  # PSD - Social Democratic Party
+    - "RO003"  # PNL - National Liberal Party
+    - "RO010"  # AUR - Alliance for the Union of Romanians
+    - "RO012"  # USR - Save Romania Union
+    - "RO005"  # RMDSZ - Democratic Alliance of Hungarians in Romania
+    - "RO017"  # SOSRO - SOS Romania
+    - "RO021"  # CNR - National Coalition for Romania
+    - "RO019"  # ADU - United Right Alliance
   elections:
     european:
       dates:
