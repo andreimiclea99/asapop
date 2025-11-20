@@ -1,0 +1,4167 @@
+---
+opinionPollAnalyses:
+- commissioners: []
+  fieldworkEnd: "2025-07-10"
+  fieldworkStart: "2025-07-04"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Konrad-Adenauer-Stiftung"
+  fieldworkEnd: "2019-05-03"
+  fieldworkStart: "2019-04-12"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-05-31"
+  fieldworkStart: "2021-05-01"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "PSnews.ro"
+  fieldworkEnd: "2019-01-20"
+  fieldworkStart: "2019-01-12"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2018-07-31"
+  fieldworkStart: "2018-07-01"
+  pollingFirm: "IRI"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-02"
+  fieldworkStart: "2024-02"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2018-09-27"
+  fieldworkStart: "2018-09-22"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-09-22"
+  fieldworkStart: "2022-09-08"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-07-31"
+  fieldworkStart: "2022-07-22"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-06"
+  fieldworkStart: "2023-06"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-05-07"
+  fieldworkStart: "2020-05-01"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-09-20"
+  fieldworkStart: "2019-09-16"
+  pollingFirm: "Socio-Data"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.27
+          - 6.0199947
+          99:
+          - 3.54
+          - 7.0399947
+          90:
+          - 4.06
+          - 6.2999945
+          95:
+          - 3.88
+          - 6.5399947
+        median: 5.104995
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 4.27
+          - 6.0199947
+          99:
+          - 3.54
+          - 7.0399947
+          90:
+          - 4.06
+          - 6.2999945
+          95:
+          - 3.88
+          - 6.5399947
+        median: 5.104995
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 7.93
+          - 10.199995
+          99:
+          - 6.92
+          - 11.459994
+          90:
+          - 7.64
+          - 10.549994
+          95:
+          - 7.39
+          - 10.849995
+        median: 9.024995
+      '[RO009]':
+        confidenceIntervals:
+          80:
+          - 20.39
+          - 23.659994
+          99:
+          - 18.84
+          - 25.379995
+          90:
+          - 19.95
+          - 24.139996
+          95:
+          - 19.57
+          - 24.559994
+        median: 21.994993
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 23.39
+          - 26.809994
+          99:
+          - 21.76
+          - 28.599995
+          90:
+          - 22.93
+          - 27.309994
+          95:
+          - 22.53
+          - 27.749994
+        median: 25.074993
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 26.31
+          - 29.859993
+          99:
+          - 24.61
+          - 31.699993
+          90:
+          - 25.83
+          - 30.369995
+          95:
+          - 25.41
+          - 30.819992
+        median: 28.064993
+      '[RO004]':
+        confidenceIntervals:
+          80:
+          - 3.33
+          - 4.9099946
+          99:
+          - 2.69
+          - 5.8399944
+          90:
+          - 3.14
+          - 5.1599946
+          95:
+          - 2.99
+          - 5.3899946
+        median: 4.0749946
+    scope: "N"
+- commissioners:
+  - "PMP"
+  fieldworkEnd: "2020-10-30"
+  fieldworkStart: "2020-10-25"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-08-23"
+  fieldworkStart: "2017-08-11"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-04-26"
+  fieldworkStart: "2025-04-24"
+  pollingFirm: "FlashData"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-08-02"
+  fieldworkStart: "2019-07-15"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-11-22"
+  fieldworkStart: "2021-11-17"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2020-01-30"
+  fieldworkStart: "2020-01-20"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-02-28"
+  fieldworkStart: "2019-02-13"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-04-25"
+  fieldworkStart: "2019-04-12"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2024-05-22"
+  fieldworkStart: "2024-05-17"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-12-23"
+  fieldworkStart: "2021-12-15"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-01-30"
+  fieldworkStart: "2019-01-11"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2025-02-16"
+  fieldworkStart: "2025-02-14"
+  pollingFirm: "FlashData"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2018-11-30"
+  fieldworkStart: "2018-11-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2018-02-28"
+  fieldworkStart: "2018-02-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "PSnews.ro"
+  fieldworkEnd: "2019-03-20"
+  fieldworkStart: "2019-03-15"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "România TV"
+  fieldworkEnd: "2018-06-26"
+  fieldworkStart: "2018-06-22"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-08-26"
+  fieldworkStart: "2020-08-06"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-12-17"
+  fieldworkStart: "2021-12-13"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Informat.ro"
+  fieldworkEnd: "2025-11-02"
+  fieldworkStart: "2025-10-25"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.32
+          - 5.3499947
+          99:
+          - 3.86
+          - 5.9099946
+          90:
+          - 4.19
+          - 5.5099945
+          95:
+          - 4.08
+          - 5.6399946
+        median: 4.8249946
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 1.42
+          - 2.0599945
+          99:
+          - 1.16
+          - 2.4199944
+          90:
+          - 1.34
+          - 2.1599944
+          95:
+          - 1.28
+          - 2.2399945
+        median: 1.7249944
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 36.86
+          - 39.159992
+          99:
+          - 35.73
+          - 40.319992
+          90:
+          - 36.54
+          - 39.479992
+          95:
+          - 36.26
+          - 39.769993
+        median: 38.004997
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 11.55
+          - 13.109995
+          99:
+          - 10.81
+          - 13.929995
+          90:
+          - 11.34
+          - 13.339994
+          95:
+          - 11.16
+          - 13.539994
+        median: 12.314995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 18.58
+          - 20.469995
+          99:
+          - 17.68
+          - 21.439995
+          90:
+          - 18.33
+          - 20.739994
+          95:
+          - 18.11
+          - 20.969995
+        median: 19.514994
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 13.79
+          - 15.469995
+          99:
+          - 12.99
+          - 16.339994
+          90:
+          - 13.56
+          - 15.709994
+          95:
+          - 13.37
+          - 15.919994
+        median: 14.614995
+      '[RO025]':
+        confidenceIntervals:
+          80:
+          - 2.81
+          - 3.6699944
+          99:
+          - 2.44
+          - 4.1399946
+          90:
+          - 2.7
+          - 3.7899947
+          95:
+          - 2.61
+          - 3.9099946
+        median: 3.2249944
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 2.72
+          - 3.5599945
+          99:
+          - 2.36
+          - 4.0199947
+          90:
+          - 2.61
+          - 3.6899943
+          95:
+          - 2.52
+          - 3.7999947
+        median: 3.1249945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-08-30"
+  fieldworkStart: "2019-08-26"
+  pollingFirm: "Socio-Data"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2020-11-10"
+  fieldworkStart: "2020-11-01"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-09-13"
+  fieldworkStart: "2019-09-09"
+  pollingFirm: "Socio-Data"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Digi24"
+  fieldworkEnd: "2024-04-09"
+  fieldworkStart: "2024-04-05"
+  pollingFirm: "Atlas Intel"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2025-09-19"
+  fieldworkStart: "2025-09-05"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-05-25"
+  fieldworkStart: "2024-05-20"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2023-05-17"
+  fieldworkStart: "2023-05-12"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-01"
+  fieldworkStart: "2024-01"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-10-30"
+  fieldworkStart: "2021-10-25"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-08-31"
+  fieldworkStart: "2022-08-01"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-10-20"
+  fieldworkStart: "2021-10-12"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-09-05"
+  fieldworkStart: "2021-09-03"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-05-27"
+  fieldworkStart: "2020-05-08"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-03-11"
+  fieldworkStart: "2022-03-02"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2024-04-20"
+  fieldworkStart: "2024-04-12"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-12-17"
+  fieldworkStart: "2019-12-12"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2020-04-12"
+  fieldworkStart: "2020-04-06"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-04-02"
+  fieldworkStart: "2024-03-26"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "Konrad-Adenauer-Stiftung"
+  fieldworkEnd: "2019-02-05"
+  fieldworkStart: "2019-01-21"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-04-28"
+  fieldworkStart: "2019-04-05"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2020-11-25"
+  fieldworkStart: "2020-11-20"
+  pollingFirm: "Verifield"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-03-29"
+  fieldworkStart: "2024-03-17"
+  pollingFirm: "CSPS"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 3.51
+          - 4.6399946
+          99:
+          - 3.02
+          - 5.2799945
+          90:
+          - 3.37
+          - 4.8199944
+          95:
+          - 3.25
+          - 4.9699945
+        median: 4.0549946
+      '[RO019]':
+        confidenceIntervals:
+          80:
+          - 19.85
+          - 22.169994
+          99:
+          - 18.75
+          - 23.369995
+          90:
+          - 19.54
+          - 22.499994
+          95:
+          - 19.27
+          - 22.789995
+        median: 20.994993
+      '[RO021]':
+        confidenceIntervals:
+          80:
+          - 35.670002
+          - 38.399994
+          99:
+          - 34.32
+          - 39.789993
+          90:
+          - 35.289997
+          - 38.789993
+          95:
+          - 34.96
+          - 39.129993
+        median: 37.024994
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 25.78
+          - 28.299995
+          99:
+          - 24.56
+          - 29.589994
+          90:
+          - 25.43
+          - 28.659994
+          95:
+          - 25.14
+          - 28.969995
+        median: 27.024994
+    scope: "E"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-01-31"
+  fieldworkStart: "2020-01-13"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2018-08-20"
+  fieldworkStart: "2018-08-07"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-06-30"
+  fieldworkStart: "2022-06-22"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Realitatea.net"
+  fieldworkEnd: "2021-02-11"
+  fieldworkStart: "2021-02-09"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "HotNews"
+  fieldworkEnd: "2024-11-28"
+  fieldworkStart: "2024-11-26"
+  pollingFirm: "Atlas Intel"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.88
+          - 6.1799946
+          99:
+          - 4.31
+          - 6.899995
+          90:
+          - 4.72
+          - 6.379995
+          95:
+          - 4.58
+          - 6.5499945
+        median: 5.5149946
+      '[RO016]':
+        confidenceIntervals:
+          80:
+          - 1.21
+          - 1.9299945
+          99:
+          - 0.94
+          - 2.3499944
+          90:
+          - 1.13
+          - 2.0399945
+          95:
+          - 1.06
+          - 2.1399944
+        median: 1.5449945
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 4.04
+          - 5.2399945
+          99:
+          - 3.52
+          - 5.899995
+          90:
+          - 3.89
+          - 5.419995
+          95:
+          - 3.76
+          - 5.5799947
+        median: 4.6149945
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 21.26
+          - 23.609995
+          99:
+          - 20.13
+          - 24.819994
+          90:
+          - 20.94
+          - 23.949995
+          95:
+          - 20.66
+          - 24.239994
+        median: 22.414993
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 16.45
+          - 18.599995
+          99:
+          - 15.43
+          - 19.709995
+          90:
+          - 16.16
+          - 18.909994
+          95:
+          - 15.91
+          - 19.179995
+        median: 17.504993
+      '[RO023]':
+        confidenceIntervals:
+          80:
+          - 0.04
+          - 0.26999444
+          99:
+          - 0.0
+          - 0.44999444
+          90:
+          - 0.02
+          - 0.30999446
+          95:
+          - 0.01
+          - 0.35999444
+        median: 0.12499444
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 20.28
+          - 22.599995
+          99:
+          - 19.18
+          - 23.799995
+          90:
+          - 19.97
+          - 22.929995
+          95:
+          - 19.7
+          - 23.219995
+        median: 21.424994
+      '[RO024]':
+        confidenceIntervals:
+          80:
+          - 0.67
+          - 1.2399944
+          99:
+          - 0.48
+          - 1.5899944
+          90:
+          - 0.61
+          - 1.3299944
+          95:
+          - 0.56
+          - 1.4099945
+        median: 0.92499447
+      '[RO013]':
+        confidenceIntervals:
+          80:
+          - 0.0
+          - 0.11999445
+          99:
+          - 0.0
+          - 0.25999445
+          90:
+          - 0.0
+          - 0.15999444
+          95:
+          - 0.0
+          - 0.18999444
+        median: 0.034994446
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 12.5
+          - 14.429995
+          99:
+          - 11.6
+          - 15.439995
+          90:
+          - 12.24
+          - 14.709994
+          95:
+          - 12.02
+          - 14.959994
+        median: 13.444995
+      '[RO025]':
+        confidenceIntervals:
+          80:
+          - 2.11
+          - 3.0099945
+          99:
+          - 1.74
+          - 3.5299945
+          90:
+          - 2.0
+          - 3.1499944
+          95:
+          - 1.91
+          - 3.2799945
+        median: 2.5349944
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 4.04
+          - 5.2399945
+          99:
+          - 3.52
+          - 5.899995
+          90:
+          - 3.89
+          - 5.419995
+          95:
+          - 3.76
+          - 5.5799947
+        median: 4.6149945
+      '[RO015]':
+        confidenceIntervals:
+          80:
+          - 2.11
+          - 3.0099945
+          99:
+          - 1.74
+          - 3.5299945
+          90:
+          - 2.0
+          - 3.1499944
+          95:
+          - 1.91
+          - 3.2799945
+        median: 2.5349944
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-12-31"
+  fieldworkStart: "2022-12-01"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-01-16"
+  fieldworkStart: "2025-01-10"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-02-04"
+  fieldworkStart: "2019-01-28"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2023-09-22"
+  fieldworkStart: "2023-09-15"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-01"
+  fieldworkStart: "2024-01"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2017-11-30"
+  fieldworkStart: "2017-11-01"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-08-05"
+  fieldworkStart: "2019-07-19"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-01-27"
+  fieldworkStart: "2024-01-15"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "Libertatea"
+  fieldworkEnd: "2024-10-18"
+  fieldworkStart: "2024-10-11"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-08-20"
+  fieldworkStart: "2021-08-12"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-12-22"
+  fieldworkStart: "2021-12-17"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-09-18"
+  fieldworkStart: "2025-09-09"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 5.22
+          - 6.939995
+          99:
+          - 4.48
+          - 7.9099946
+          90:
+          - 5.0
+          - 7.209995
+          95:
+          - 4.82
+          - 7.439995
+        median: 6.044995
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 0.71
+          - 1.4699944
+          99:
+          - 0.47
+          - 1.9699944
+          90:
+          - 0.64
+          - 1.5999944
+          95:
+          - 0.57
+          - 1.7199944
+        median: 1.0549945
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 1.57
+          - 2.6099944
+          99:
+          - 1.18
+          - 3.2399945
+          90:
+          - 1.45
+          - 2.7799945
+          95:
+          - 1.36
+          - 2.9299943
+        median: 2.0449944
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 39.26
+          - 42.77999
+          99:
+          - 37.52
+          - 44.559994
+          90:
+          - 38.769997
+          - 43.27999
+          95:
+          - 38.34
+          - 43.709995
+        median: 41.004997
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 10.9
+          - 13.239995
+          99:
+          - 9.83
+          - 14.499994
+          90:
+          - 10.59
+          - 13.589994
+          95:
+          - 10.33
+          - 13.899995
+        median: 12.034995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 17.65
+          - 20.469995
+          99:
+          - 16.32
+          - 21.949995
+          90:
+          - 17.27
+          - 20.879995
+          95:
+          - 16.95
+          - 21.239994
+        median: 19.034994
+      '[RO024]':
+        confidenceIntervals:
+          80:
+          - 0.71
+          - 1.4699944
+          99:
+          - 0.47
+          - 1.9699944
+          90:
+          - 0.64
+          - 1.5999944
+          95:
+          - 0.57
+          - 1.7199944
+        median: 1.0549945
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 11.86
+          - 14.279995
+          99:
+          - 10.75
+          - 15.579994
+          90:
+          - 11.54
+          - 14.639995
+          95:
+          - 11.27
+          - 14.949995
+        median: 13.034995
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 1.57
+          - 2.6099944
+          99:
+          - 1.18
+          - 3.2399945
+          90:
+          - 1.45
+          - 2.7799945
+          95:
+          - 1.36
+          - 2.9299943
+        median: 2.0449944
+      '[RO015]':
+        confidenceIntervals:
+          80:
+          - 0.71
+          - 1.4699944
+          99:
+          - 0.47
+          - 1.9699944
+          90:
+          - 0.64
+          - 1.5999944
+          95:
+          - 0.57
+          - 1.7199944
+        median: 1.0549945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-04-11"
+  fieldworkStart: "2021-03-30"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-01-17"
+  fieldworkStart: "2021-01-15"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-02-13"
+  fieldworkStart: "2023-02-01"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2018-12-20"
+  fieldworkStart: "2018-12-04"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-04-15"
+  fieldworkStart: "2020-04-11"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-12-18"
+  fieldworkStart: "2019-12-04"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-02"
+  fieldworkStart: "2024-02"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2024-10-16"
+  fieldworkStart: "2024-10-11"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-11-27"
+  fieldworkStart: "2020-11-06"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 3.89
+          - 5.629995
+          99:
+          - 3.18
+          - 6.6399946
+          90:
+          - 3.68
+          - 5.9099946
+          95:
+          - 3.51
+          - 6.149995
+        median: 4.7149944
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 3.8
+          - 5.5199947
+          99:
+          - 3.1
+          - 6.5299945
+          90:
+          - 3.59
+          - 5.7999945
+          95:
+          - 3.42
+          - 6.0399947
+        median: 4.6149945
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 8.4
+          - 10.799994
+          99:
+          - 7.34
+          - 12.129994
+          90:
+          - 8.1
+          - 11.169994
+          95:
+          - 7.83
+          - 11.489995
+        median: 9.554995
+      '[RO009]':
+        confidenceIntervals:
+          80:
+          - 16.53
+          - 19.659994
+          99:
+          - 15.07
+          - 21.329994
+          90:
+          - 16.12
+          - 20.119995
+          95:
+          - 15.76
+          - 20.529995
+        median: 18.064993
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 21.9
+          - 25.349995
+          99:
+          - 20.27
+          - 27.159994
+          90:
+          - 21.44
+          - 25.859995
+          95:
+          - 21.04
+          - 26.299995
+        median: 23.594994
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 26.73
+          - 30.399992
+          99:
+          - 24.97
+          - 32.29999
+          90:
+          - 26.23
+          - 30.929995
+          95:
+          - 25.8
+          - 31.389996
+        median: 28.544994
+      '[RO004]':
+        confidenceIntervals:
+          80:
+          - 2.64
+          - 4.1199946
+          99:
+          - 2.06
+          - 4.9999948
+          90:
+          - 2.47
+          - 4.359995
+          95:
+          - 2.33
+          - 4.5699944
+        median: 3.3249943
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-03-07"
+  fieldworkStart: "2022-03-02"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-04-17"
+  fieldworkStart: "2021-04-14"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-05-28"
+  fieldworkStart: "2025-05-23"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-12-07"
+  fieldworkStart: "2017-11-24"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-09-30"
+  fieldworkStart: "2017-09-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-10-17"
+  fieldworkStart: "2021-10-12"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "România TV"
+  fieldworkEnd: "2018-06-08"
+  fieldworkStart: "2018-05-28"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-03-26"
+  fieldworkStart: "2020-03-05"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2023-11-27"
+  fieldworkStart: "2023-11-20"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-04-20"
+  fieldworkStart: "2022-04-12"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-08-17"
+  fieldworkStart: "2022-08-05"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-01-10"
+  fieldworkStart: "2018-01-03"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-03-31"
+  fieldworkStart: "2018-03-01"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-08-27"
+  fieldworkStart: "2024-08-13"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-05-08"
+  fieldworkStart: "2018-04-27"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-12-09"
+  fieldworkStart: "2018-11-24"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2025-05-30"
+  fieldworkStart: "2025-05-26"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-05-30"
+  fieldworkStart: "2025-05-26"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Konrad-Adenauer-Stiftung"
+  fieldworkEnd: "2019-03-13"
+  fieldworkStart: "2019-03-05"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2023-08-31"
+  fieldworkStart: "2023-08-28"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2025-07-23"
+  fieldworkStart: "2025-07-15"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.16
+          - 5.939995
+          99:
+          - 3.42
+          - 6.979995
+          90:
+          - 3.94
+          - 6.2199945
+          95:
+          - 3.76
+          - 6.4699945
+        median: 5.004995
+      '[RO016]':
+        confidenceIntervals:
+          80:
+          - 0.3
+          - 0.92999446
+          99:
+          - 0.14
+          - 1.4099945
+          90:
+          - 0.24
+          - 1.0499945
+          95:
+          - 0.2
+          - 1.1599945
+        median: 0.55499446
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 0.45
+          - 1.1699945
+          99:
+          - 0.24
+          - 1.6999944
+          90:
+          - 0.38
+          - 1.3099945
+          95:
+          - 0.33
+          - 1.4299945
+        median: 0.75499445
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 1.42
+          - 2.5599945
+          99:
+          - 1.01
+          - 3.2899945
+          90:
+          - 1.3
+          - 2.7599945
+          95:
+          - 1.2
+          - 2.9299943
+        median: 1.9449944
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 34.54
+          - 38.449993
+          99:
+          - 32.64
+          - 40.43999
+          90:
+          - 34.0
+          - 38.999992
+          95:
+          - 33.54
+          - 39.489994
+        median: 36.484997
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 11.95
+          - 14.709994
+          99:
+          - 10.69
+          - 16.209995
+          90:
+          - 11.59
+          - 15.119995
+          95:
+          - 11.28
+          - 15.489995
+        median: 13.284995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 15.55
+          - 18.599995
+          99:
+          - 14.13
+          - 20.239994
+          90:
+          - 15.14
+          - 19.049995
+          95:
+          - 14.79
+          - 19.449995
+        median: 17.034994
+      '[RO024]':
+        confidenceIntervals:
+          80:
+          - 0.45
+          - 1.1699945
+          99:
+          - 0.24
+          - 1.6999944
+          90:
+          - 0.38
+          - 1.3099945
+          95:
+          - 0.33
+          - 1.4299945
+        median: 0.75499445
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 13.08
+          - 15.939995
+          99:
+          - 11.77
+          - 17.489994
+          90:
+          - 12.7
+          - 16.369995
+          95:
+          - 12.38
+          - 16.739994
+        median: 14.474995
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 1.94
+          - 3.2299945
+          99:
+          - 1.45
+          - 4.0299945
+          90:
+          - 1.79
+          - 3.4399943
+          95:
+          - 1.67
+          - 3.6399944
+        median: 2.5349944
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-03-29"
+  fieldworkStart: "2022-03-22"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-09-22"
+  fieldworkStart: "2023-09-12"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Realitatea.net"
+  fieldworkEnd: "2021-07-15"
+  fieldworkStart: "2021-07-01"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-07-29"
+  fieldworkStart: "2020-07-10"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-01-29"
+  fieldworkStart: "2022-01-22"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-02-19"
+  fieldworkStart: "2023-02-05"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-07-01"
+  fieldworkStart: "2018-06-23"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-11-29"
+  fieldworkStart: "2020-11-28"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-08-05"
+  fieldworkStart: "2020-07-29"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-02-26"
+  fieldworkStart: "2021-02-22"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-11-12"
+  fieldworkStart: "2018-10-26"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-03-28"
+  fieldworkStart: "2021-03-12"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Realitatea.net"
+  fieldworkEnd: "2021-05-07"
+  fieldworkStart: "2021-05-07"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Libertatea"
+  fieldworkEnd: "2024-11-12"
+  fieldworkStart: "2024-11-07"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-04-30"
+  fieldworkStart: "2017-04-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-06-26"
+  fieldworkStart: "2019-06-07"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2024-02-29"
+  fieldworkStart: "2024-02-22"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "Euronews"
+  fieldworkEnd: "2024-03-05"
+  fieldworkStart: "2024-02-23"
+  pollingFirm: "Ipsos"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 2.75
+          - 4.2899947
+          99:
+          - 2.15
+          - 5.209995
+          90:
+          - 2.57
+          - 4.5299945
+          95:
+          - 2.42
+          - 4.7499948
+        median: 3.4649944
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 5.0
+          - 6.9699945
+          99:
+          - 4.17
+          - 8.109995
+          90:
+          - 4.76
+          - 7.2799945
+          95:
+          - 4.55
+          - 7.5499945
+        median: 5.9349947
+      '[RO019]':
+        confidenceIntervals:
+          80:
+          - 12.86
+          - 15.769995
+          99:
+          - 11.54
+          - 17.339994
+          90:
+          - 12.48
+          - 16.199995
+          95:
+          - 12.16
+          - 16.579994
+        median: 14.274995
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 4.24
+          - 6.0799947
+          99:
+          - 3.48
+          - 7.149995
+          90:
+          - 4.02
+          - 6.3699946
+          95:
+          - 3.83
+          - 6.629995
+        median: 5.1149945
+      '[RO021]':
+        confidenceIntervals:
+          80:
+          - 40.34
+          - 44.43999
+          99:
+          - 38.32
+          - 46.509995
+          90:
+          - 39.769997
+          - 45.019993
+          95:
+          - 39.28
+          - 45.519993
+        median: 42.384995
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 19.11
+          - 22.479994
+          99:
+          - 17.53
+          - 24.259995
+          90:
+          - 18.66
+          - 22.969995
+          95:
+          - 18.28
+          - 23.399994
+        median: 20.764994
+      '[RO011]':
+        confidenceIntervals:
+          80:
+          - 2.38
+          - 3.8299947
+          99:
+          - 1.83
+          - 4.709995
+          90:
+          - 2.22
+          - 4.0599947
+          95:
+          - 2.08
+          - 4.2799945
+        median: 3.0549943
+    scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-10-26"
+  fieldworkStart: "2021-10-17"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-03-25"
+  fieldworkStart: "2019-03-12"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2023-12-30"
+  fieldworkStart: "2023-12-26"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2020-12-21"
+  fieldworkStart: "2020-12-17"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2024-01-24"
+  fieldworkStart: "2024-01-16"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2017-09-14"
+  fieldworkStart: "2017-08-28"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "PER"
+  fieldworkEnd: "2020-11-18"
+  fieldworkStart: "2020-11-11"
+  pollingFirm: "ADS"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.36
+          - 5.9699945
+          99:
+          - 3.68
+          - 6.879995
+          90:
+          - 4.16
+          - 6.2199945
+          95:
+          - 3.99
+          - 6.439995
+        median: 5.1249948
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 4.07
+          - 5.629995
+          99:
+          - 3.41
+          - 6.5199947
+          90:
+          - 3.88
+          - 5.8699946
+          95:
+          - 3.72
+          - 6.0899944
+        median: 4.814995
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 3.93
+          - 5.459995
+          99:
+          - 3.28
+          - 6.3499947
+          90:
+          - 3.74
+          - 5.6999946
+          95:
+          - 3.58
+          - 5.919995
+        median: 4.6549945
+      '[RO009]':
+        confidenceIntervals:
+          80:
+          - 11.37
+          - 13.769995
+          99:
+          - 10.27
+          - 15.059995
+          90:
+          - 11.06
+          - 14.129994
+          95:
+          - 10.79
+          - 14.439995
+        median: 12.534995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 25.7
+          - 28.919994
+          99:
+          - 24.15
+          - 30.579992
+          90:
+          - 25.26
+          - 29.379995
+          95:
+          - 24.88
+          - 29.789995
+        median: 27.284994
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 29.53
+          - 32.879993
+          99:
+          - 27.91
+          - 34.599995
+          90:
+          - 29.08
+          - 33.359993
+          95:
+          - 28.68
+          - 33.77999
+        median: 31.194994
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-03-04"
+  fieldworkStart: "2024-02-14"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-10-28"
+  fieldworkStart: "2020-10-07"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-06-27"
+  fieldworkStart: "2020-06-05"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-07-20"
+  fieldworkStart: "2023-07-08"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "informat.ro"
+  fieldworkEnd: "2025-09-09"
+  fieldworkStart: "2025-09-01"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-01-18"
+  fieldworkStart: "2022-01-10"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-01-31"
+  fieldworkStart: "2022-01-20"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-11-03"
+  fieldworkStart: "2019-10-25"
+  pollingFirm: "USR"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 3.8
+          - 5.359995
+          99:
+          - 3.16
+          - 6.2499948
+          90:
+          - 3.61
+          - 5.5999947
+          95:
+          - 3.45
+          - 5.8099947
+        median: 4.5349946
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 3.65
+          - 5.1799946
+          99:
+          - 3.02
+          - 6.0599947
+          90:
+          - 3.47
+          - 5.419995
+          95:
+          - 3.31
+          - 5.629995
+        median: 4.3749948
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 4.1
+          - 5.709995
+          99:
+          - 3.43
+          - 6.629995
+          90:
+          - 3.91
+          - 5.959995
+          95:
+          - 3.74
+          - 6.1799946
+        median: 4.8649945
+      '[RO009]':
+        confidenceIntervals:
+          80:
+          - 18.58
+          - 21.539995
+          99:
+          - 17.18
+          - 23.099995
+          90:
+          - 18.18
+          - 21.969995
+          95:
+          - 17.84
+          - 22.349995
+        median: 20.034994
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 22.47
+          - 25.629995
+          99:
+          - 20.97
+          - 27.279995
+          90:
+          - 22.05
+          - 26.089994
+          95:
+          - 21.68
+          - 26.489994
+        median: 24.024994
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 36.43
+          - 40.019993
+          99:
+          - 34.68
+          - 41.839993
+          90:
+          - 35.94
+          - 40.529995
+          95:
+          - 35.510002
+          - 40.969994
+        median: 38.214993
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-11-22"
+  fieldworkStart: "2022-11-08"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-03-20"
+  fieldworkStart: "2023-03-10"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-07-15"
+  fieldworkStart: "2021-07-01"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-11-05"
+  fieldworkStart: "2024-10-30"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-05-26"
+  fieldworkStart: "2022-05-16"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-01-20"
+  fieldworkStart: "2023-01-10"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-08-19"
+  fieldworkStart: "2021-08-15"
+  pollingFirm: "IRES"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.18
+          - 5.979995
+          99:
+          - 3.44
+          - 7.0199947
+          90:
+          - 3.96
+          - 6.2599945
+          95:
+          - 3.78
+          - 6.5099945
+        median: 5.024995
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 1.52
+          - 2.6899943
+          99:
+          - 1.09
+          - 3.4299943
+          90:
+          - 1.39
+          - 2.8899944
+          95:
+          - 1.28
+          - 3.0699944
+        median: 2.0549943
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 1.52
+          - 2.6899943
+          99:
+          - 1.09
+          - 3.4299943
+          90:
+          - 1.39
+          - 2.8899944
+          95:
+          - 1.28
+          - 3.0699944
+        median: 2.0549943
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 12.68
+          - 15.519995
+          99:
+          - 11.39
+          - 17.049995
+          90:
+          - 12.31
+          - 15.939995
+          95:
+          - 11.99
+          - 16.319994
+        median: 14.064995
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 12.68
+          - 15.519995
+          99:
+          - 11.39
+          - 17.049995
+          90:
+          - 12.31
+          - 15.939995
+          95:
+          - 11.99
+          - 16.319994
+        median: 14.064995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 33.089996
+          - 36.969994
+          99:
+          - 31.2
+          - 38.95999
+          90:
+          - 32.550003
+          - 37.519993
+          95:
+          - 32.089996
+          - 38.009995
+        median: 35.004997
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 25.28
+          - 28.899994
+          99:
+          - 23.55
+          - 30.779993
+          90:
+          - 24.79
+          - 29.429995
+          95:
+          - 24.37
+          - 29.879993
+        median: 27.064993
+      '[RO004]':
+        confidenceIntervals:
+          80:
+          - 0.68
+          - 1.5399945
+          99:
+          - 0.42
+          - 2.1299944
+          90:
+          - 0.6
+          - 1.6899945
+          95:
+          - 0.53
+          - 1.8299944
+        median: 1.0549945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-09-27"
+  fieldworkStart: "2021-09-15"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-06-15"
+  fieldworkStart: "2021-06-01"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-05-26"
+  fieldworkStart: "2020-05-15"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-03-28"
+  fieldworkStart: "2025-03-24"
+  pollingFirm: "Verifield"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.32
+          - 6.0599947
+          99:
+          - 3.59
+          - 7.0599947
+          90:
+          - 4.11
+          - 6.3299947
+          95:
+          - 3.93
+          - 6.5699944
+        median: 5.1449947
+      '[RO016]':
+        confidenceIntervals:
+          80:
+          - 0.85
+          - 1.7299944
+          99:
+          - 0.55
+          - 2.3199944
+          90:
+          - 0.76
+          - 1.8899945
+          95:
+          - 0.68
+          - 2.0299945
+        median: 1.2449944
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 3.0
+          - 4.479995
+          99:
+          - 2.4
+          - 5.359995
+          90:
+          - 2.82
+          - 4.7199945
+          95:
+          - 2.67
+          - 4.9299946
+        median: 3.6949944
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 29.96
+          - 33.579994
+          99:
+          - 28.2
+          - 35.449993
+          90:
+          - 29.46
+          - 34.099995
+          95:
+          - 29.03
+          - 34.549995
+        median: 31.744995
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 11.68
+          - 14.299994
+          99:
+          - 10.48
+          - 15.719995
+          90:
+          - 11.34
+          - 14.689995
+          95:
+          - 11.04
+          - 15.039994
+        median: 12.954994
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 19.65
+          - 22.839994
+          99:
+          - 18.15
+          - 24.519995
+          90:
+          - 19.22
+          - 23.299995
+          95:
+          - 18.86
+          - 23.709995
+        median: 21.214994
+      '[RO024]':
+        confidenceIntervals:
+          80:
+          - 0.41
+          - 1.0799944
+          99:
+          - 0.22
+          - 1.5599945
+          90:
+          - 0.35
+          - 1.2099944
+          95:
+          - 0.3
+          - 1.3199944
+        median: 0.69499445
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 13.68
+          - 16.469995
+          99:
+          - 12.4
+          - 17.969995
+          90:
+          - 13.31
+          - 16.889996
+          95:
+          - 13.0
+          - 17.249994
+        median: 15.044993
+      '[RO025]':
+        confidenceIntervals:
+          80:
+          - 0.55
+          - 1.2999945
+          99:
+          - 0.32
+          - 1.8199944
+          90:
+          - 0.48
+          - 1.4399945
+          95:
+          - 0.42
+          - 1.5599945
+        median: 0.87499446
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 6.09
+          - 8.099995
+          99:
+          - 5.22
+          - 9.229995
+          90:
+          - 5.84
+          - 8.409995
+          95:
+          - 5.62
+          - 8.679995
+        median: 7.0549946
+    scope: "N"
+- commissioners:
+  - "Newsweek"
+  fieldworkEnd: "2024-10-28"
+  fieldworkStart: "2024-10-24"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 5.66
+          - 7.5599947
+          99:
+          - 4.84
+          - 8.629994
+          90:
+          - 5.42
+          - 7.859995
+          95:
+          - 5.22
+          - 8.109995
+        median: 6.5749946
+      '[RO016]':
+        confidenceIntervals:
+          80:
+          - 0.6
+          - 1.3499944
+          99:
+          - 0.36
+          - 1.8599944
+          90:
+          - 0.52
+          - 1.4799944
+          95:
+          - 0.46
+          - 1.6099944
+        median: 0.92499447
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 2.09
+          - 3.3299944
+          99:
+          - 1.6
+          - 4.0899944
+          90:
+          - 1.94
+          - 3.5299945
+          95:
+          - 1.82
+          - 3.7199945
+        median: 2.6649945
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 16.18
+          - 19.089994
+          99:
+          - 14.82
+          - 20.629995
+          90:
+          - 15.79
+          - 19.509995
+          95:
+          - 15.46
+          - 19.889996
+        median: 17.604994
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 15.17
+          - 18.009995
+          99:
+          - 13.85
+          - 19.519995
+          90:
+          - 14.8
+          - 18.429995
+          95:
+          - 14.47
+          - 18.799995
+        median: 16.564993
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 29.32
+          - 32.849995
+          99:
+          - 27.62
+          - 34.659992
+          90:
+          - 28.84
+          - 33.349995
+          95:
+          - 28.42
+          - 33.789993
+        median: 31.064995
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 19.04
+          - 22.119995
+          99:
+          - 17.59
+          - 23.749994
+          90:
+          - 18.63
+          - 22.569994
+          95:
+          - 18.27
+          - 22.969995
+        median: 20.554995
+      '[RO015]':
+        confidenceIntervals:
+          80:
+          - 2.55
+          - 3.9099946
+          99:
+          - 2.01
+          - 4.709995
+          90:
+          - 2.39
+          - 4.1199946
+          95:
+          - 2.26
+          - 4.3199944
+        median: 3.1849945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-08-31"
+  fieldworkStart: "2019-08-19"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-08-28"
+  fieldworkStart: "2019-08-05"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-10-28"
+  fieldworkStart: "2019-10-08"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-05-31"
+  fieldworkStart: "2021-05-01"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-03-12"
+  fieldworkStart: "2021-03-01"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2020-06-30"
+  fieldworkStart: "2020-06-19"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-05-21"
+  fieldworkStart: "2020-05-21"
+  pollingFirm: "PSD"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2024-06-27"
+  fieldworkStart: "2024-06-19"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-03-28"
+  fieldworkStart: "2024-03-19"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2023-12-28"
+  fieldworkStart: "2023-12-16"
+  pollingFirm: "ARA Public Opinion"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.2
+          - 5.9999948
+          99:
+          - 3.45
+          - 7.0399947
+          90:
+          - 3.98
+          - 6.2799945
+          95:
+          - 3.79
+          - 6.5299945
+        median: 5.044995
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 2.84
+          - 4.3699946
+          99:
+          - 2.23
+          - 5.2799945
+          90:
+          - 2.66
+          - 4.6199946
+          95:
+          - 2.51
+          - 4.8299947
+        median: 3.5549943
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 1.87
+          - 3.1499944
+          99:
+          - 1.39
+          - 3.9499946
+          90:
+          - 1.72
+          - 3.3599944
+          95:
+          - 1.6
+          - 3.5499945
+        median: 2.4549944
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 0.69
+          - 1.5499945
+          99:
+          - 0.42
+          - 2.1399944
+          90:
+          - 0.6
+          - 1.6999944
+          95:
+          - 0.53
+          - 1.8399944
+        median: 1.0649945
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 8.47
+          - 10.889995
+          99:
+          - 7.4
+          - 12.229995
+          90:
+          - 8.16
+          - 11.249994
+          95:
+          - 7.9
+          - 11.579994
+        median: 9.6349945
+      '[RO011]':
+        confidenceIntervals:
+          80:
+          - 3.29
+          - 4.919995
+          99:
+          - 2.63
+          - 5.879995
+          90:
+          - 3.1
+          - 5.169995
+          95:
+          - 2.93
+          - 5.4099946
+        median: 4.0549946
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 13.21
+          - 16.099995
+          99:
+          - 11.89
+          - 17.659994
+          90:
+          - 12.83
+          - 16.529995
+          95:
+          - 12.51
+          - 16.909994
+        median: 14.614995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 28.81
+          - 32.569996
+          99:
+          - 26.99
+          - 34.509995
+          90:
+          - 28.29
+          - 33.109993
+          95:
+          - 27.85
+          - 33.579994
+        median: 30.664995
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 14.74
+          - 17.749994
+          99:
+          - 13.35
+          - 19.369995
+          90:
+          - 14.35
+          - 18.199995
+          95:
+          - 14.01
+          - 18.589994
+        median: 16.214994
+      '[RO015]':
+        confidenceIntervals:
+          80:
+          - 2.22
+          - 3.5999944
+          99:
+          - 1.69
+          - 4.439995
+          90:
+          - 2.06
+          - 3.8199947
+          95:
+          - 1.93
+          - 4.0199947
+        median: 2.8549945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-10-05"
+  fieldworkStart: "2017-09-22"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-10-19"
+  fieldworkStart: "2019-10-12"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-05-27"
+  fieldworkStart: "2023-05-19"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-06"
+  fieldworkStart: "2023-05"
+  pollingFirm: "Geeks for Democracy"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.1
+          - 6.0999947
+          99:
+          - 3.28
+          - 7.2799945
+          90:
+          - 3.86
+          - 6.419995
+          95:
+          - 3.66
+          - 6.6999946
+        median: 5.0349946
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 16.34
+          - 19.829994
+          99:
+          - 14.72
+          - 21.709995
+          90:
+          - 15.87
+          - 20.349995
+          95:
+          - 15.48
+          - 20.809994
+        median: 18.044994
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 9.73
+          - 12.589994
+          99:
+          - 8.46
+          - 14.179995
+          90:
+          - 9.36
+          - 13.029995
+          95:
+          - 9.05
+          - 13.409995
+        median: 11.104995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 28.97
+          - 33.179993
+          99:
+          - 26.95
+          - 35.349995
+          90:
+          - 28.4
+          - 33.77999
+          95:
+          - 27.91
+          - 34.309994
+        median: 31.044996
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 17.29
+          - 20.859995
+          99:
+          - 15.64
+          - 22.769995
+          90:
+          - 16.82
+          - 21.389996
+          95:
+          - 16.41
+          - 21.849995
+        median: 19.034994
+    scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-02-28"
+  fieldworkStart: "2020-02-11"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-09-29"
+  fieldworkStart: "2021-09-26"
+  pollingFirm: "Gazeta Civică"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.26
+          - 5.9099946
+          99:
+          - 3.57
+          - 6.8499947
+          90:
+          - 4.06
+          - 6.1599946
+          95:
+          - 3.89
+          - 6.3899946
+        median: 5.044995
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 4.72
+          - 6.439995
+          99:
+          - 3.99
+          - 7.419995
+          90:
+          - 4.51
+          - 6.709995
+          95:
+          - 4.33
+          - 6.939995
+        median: 5.544995
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 3.34
+          - 4.8299947
+          99:
+          - 2.73
+          - 5.689995
+          90:
+          - 3.16
+          - 5.0599947
+          95:
+          - 3.01
+          - 5.2699947
+        median: 4.044995
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 16.12
+          - 18.949995
+          99:
+          - 14.79
+          - 20.459995
+          90:
+          - 15.74
+          - 19.369995
+          95:
+          - 15.42
+          - 19.739994
+        median: 17.504993
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 16.6
+          - 19.469995
+          99:
+          - 15.26
+          - 20.989994
+          90:
+          - 16.22
+          - 19.889996
+          95:
+          - 15.89
+          - 20.259995
+        median: 18.004993
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 26.41
+          - 29.759995
+          99:
+          - 24.79
+          - 31.489994
+          90:
+          - 25.95
+          - 30.239992
+          95:
+          - 25.56
+          - 30.659992
+        median: 28.064993
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 15.64
+          - 18.439995
+          99:
+          - 14.33
+          - 19.929995
+          90:
+          - 15.26
+          - 18.849995
+          95:
+          - 14.94
+          - 19.209995
+        median: 17.004993
+      '[RO014]':
+        confidenceIntervals:
+          80:
+          - 2.44
+          - 3.7399948
+          99:
+          - 1.92
+          - 4.5099945
+          90:
+          - 2.29
+          - 3.9499946
+          95:
+          - 2.16
+          - 4.129995
+        median: 3.0449944
+      '[RO004]':
+        confidenceIntervals:
+          80:
+          - 0.7
+          - 1.4899944
+          99:
+          - 0.45
+          - 2.0099945
+          90:
+          - 0.63
+          - 1.6299944
+          95:
+          - 0.56
+          - 1.7499944
+        median: 1.0549945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-04-11"
+  fieldworkStart: "2022-03-28"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2020-10-11"
+  fieldworkStart: "2020-10-08"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-06-18"
+  fieldworkStart: "2021-06-11"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2018-09-30"
+  fieldworkStart: "2018-09-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-10-25"
+  fieldworkStart: "2021-10-15"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-11-28"
+  fieldworkStart: "2020-11-22"
+  pollingFirm: "IRSOP"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.19
+          - 5.9899945
+          99:
+          - 3.44
+          - 7.0299945
+          90:
+          - 3.97
+          - 6.2699947
+          95:
+          - 3.79
+          - 6.5199947
+        median: 5.0349946
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 2.39
+          - 3.8099947
+          99:
+          - 1.84
+          - 4.669995
+          90:
+          - 2.23
+          - 4.0399947
+          95:
+          - 2.09
+          - 4.2499948
+        median: 3.0549943
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 6.03
+          - 8.119995
+          99:
+          - 5.13
+          - 9.309995
+          90:
+          - 5.77
+          - 8.449995
+          95:
+          - 5.54
+          - 8.729995
+        median: 7.024995
+      '[RO009]':
+        confidenceIntervals:
+          80:
+          - 15.58
+          - 18.649994
+          99:
+          - 14.15
+          - 20.289995
+          90:
+          - 15.17
+          - 19.099995
+          95:
+          - 14.82
+          - 19.499994
+        median: 17.074993
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 28.16
+          - 31.889996
+          99:
+          - 26.36
+          - 33.829994
+          90:
+          - 27.65
+          - 32.429996
+          95:
+          - 27.21
+          - 32.899994
+        median: 30.004995
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 31.089998
+          - 34.919994
+          99:
+          - 29.24
+          - 36.889996
+          90:
+          - 30.569998
+          - 35.469994
+          95:
+          - 30.12
+          - 35.949993
+        median: 32.994995
+    scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-04-24"
+  fieldworkStart: "2020-04-06"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-12-18"
+  fieldworkStart: "2019-12-13"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Institutul pentru Libertate și Democrație"
+  fieldworkEnd: "2024-09-16"
+  fieldworkStart: "2024-09-11"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-04-05"
+  fieldworkStart: "2025-04-03"
+  pollingFirm: "FlashData"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-01-15"
+  fieldworkStart: "2021-01-11"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-10-31"
+  fieldworkStart: "2022-10-01"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "informat.ro"
+  fieldworkEnd: "2025-06-26"
+  fieldworkStart: "2025-06-20"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-03-05"
+  fieldworkStart: "2018-02-27"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "PNL"
+  fieldworkEnd: "2019-05-19"
+  fieldworkStart: "2019-05-14"
+  pollingFirm: "Novel"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.28
+          - 5.9099946
+          99:
+          - 3.58
+          - 6.8499947
+          90:
+          - 4.07
+          - 6.169995
+          95:
+          - 3.9
+          - 6.3899946
+        median: 5.0549946
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 5.88
+          - 7.7499948
+          99:
+          - 5.06
+          - 8.799994
+          90:
+          - 5.64
+          - 8.039994
+          95:
+          - 5.44
+          - 8.289994
+        median: 6.774995
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 6.88
+          - 8.879994
+          99:
+          - 6.0
+          - 9.989995
+          90:
+          - 6.62
+          - 9.179995
+          95:
+          - 6.41
+          - 9.449995
+        median: 7.834995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 26.2
+          - 29.509995
+          99:
+          - 24.6
+          - 31.229994
+          90:
+          - 25.74
+          - 29.989994
+          95:
+          - 25.35
+          - 30.409994
+        median: 27.834993
+      '[RO002]':
+        confidenceIntervals:
+          80:
+          - 13.52
+          - 16.149994
+          99:
+          - 12.3
+          - 17.559994
+          90:
+          - 13.17
+          - 16.539995
+          95:
+          - 12.87
+          - 16.879995
+        median: 14.804995
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 26.52
+          - 29.849995
+          99:
+          - 24.91
+          - 31.569994
+          90:
+          - 26.06
+          - 30.329994
+          95:
+          - 25.67
+          - 30.739992
+        median: 28.164993
+      '[RO004]':
+        confidenceIntervals:
+          80:
+          - 6.95
+          - 8.959994
+          99:
+          - 6.07
+          - 10.079994
+          90:
+          - 6.7
+          - 9.269995
+          95:
+          - 6.48
+          - 9.539994
+        median: 7.9249945
+    scope: "E"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-11-27"
+  fieldworkStart: "2019-11-11"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-09-06"
+  fieldworkStart: "2019-09-02"
+  pollingFirm: "Socio-Data"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "News.ro"
+  fieldworkEnd: "2023-11-02"
+  fieldworkStart: "2023-10-23"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-05-20"
+  fieldworkStart: "2019-05-02"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-08-24"
+  fieldworkStart: "2021-08-20"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Newsweek"
+  fieldworkEnd: "2024-11-13"
+  fieldworkStart: "2024-11-09"
+  pollingFirm: "CIRA"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.22
+          - 5.9899945
+          99:
+          - 3.48
+          - 7.0099945
+          90:
+          - 4.0
+          - 6.2699947
+          95:
+          - 3.82
+          - 6.5099945
+        median: 5.0549946
+      '[RO016]':
+        confidenceIntervals:
+          80:
+          - 0.66
+          - 1.4899944
+          99:
+          - 0.4
+          - 2.0599945
+          90:
+          - 0.58
+          - 1.6399945
+          95:
+          - 0.51
+          - 1.7699945
+        median: 1.0249945
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 4.22
+          - 5.9899945
+          99:
+          - 3.48
+          - 7.0099945
+          90:
+          - 4.0
+          - 6.2699947
+          95:
+          - 3.82
+          - 6.5099945
+        median: 5.0549946
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 14.57
+          - 17.509995
+          99:
+          - 13.21
+          - 19.089994
+          90:
+          - 14.18
+          - 17.949995
+          95:
+          - 13.85
+          - 18.329994
+        median: 16.004993
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 10.8
+          - 13.419994
+          99:
+          - 9.62
+          - 14.839994
+          90:
+          - 10.46
+          - 13.809995
+          95:
+          - 10.17
+          - 14.149995
+        median: 12.064995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 29.16
+          - 32.859993
+          99:
+          - 27.37
+          - 34.769993
+          90:
+          - 28.65
+          - 33.389996
+          95:
+          - 28.21
+          - 33.849995
+        median: 30.984995
+      '[RO024]':
+        confidenceIntervals:
+          80:
+          - 2.39
+          - 3.7899947
+          99:
+          - 1.85
+          - 4.629995
+          90:
+          - 2.23
+          - 4.0099945
+          95:
+          - 2.1
+          - 4.2199945
+        median: 3.0449944
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 18.47
+          - 21.669994
+          99:
+          - 16.96
+          - 23.369995
+          90:
+          - 18.04
+          - 22.139996
+          95:
+          - 17.67
+          - 22.559994
+        median: 20.034994
+      '[RO025]':
+        confidenceIntervals:
+          80:
+          - 0.66
+          - 1.4899944
+          99:
+          - 0.4
+          - 2.0599945
+          90:
+          - 0.58
+          - 1.6399945
+          95:
+          - 0.51
+          - 1.7699945
+        median: 1.0249945
+      '[RO015]':
+        confidenceIntervals:
+          80:
+          - 1.55
+          - 2.7099946
+          99:
+          - 1.12
+          - 3.4399943
+          90:
+          - 1.42
+          - 2.9099944
+          95:
+          - 1.31
+          - 3.0799944
+        median: 2.0849946
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2018-10-04"
+  fieldworkStart: "2018-10-03"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-01-31"
+  fieldworkStart: "2017-01-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-09-21"
+  fieldworkStart: "2021-09-14"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-09-28"
+  fieldworkStart: "2021-09-28"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-07-23"
+  fieldworkStart: "2019-07-07"
+  pollingFirm: "BCS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-09-24"
+  fieldworkStart: "2019-09-03"
+  pollingFirm: "USR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-12-03"
+  fieldworkStart: "2020-12-02"
+  pollingFirm: "IRES"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-02-06"
+  fieldworkStart: "2019-01-21"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2019-01-31"
+  fieldworkStart: "2019-01-01"
+  pollingFirm: "PNL"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.82
+          - 5.189995
+          99:
+          - 4.65
+          - 5.3699946
+          90:
+          - 4.77
+          - 5.2399945
+          95:
+          - 4.73
+          - 5.2899947
+        median: 5.004995
+      '[RO006]':
+        confidenceIntervals:
+          80:
+          - 4.03
+          - 4.379995
+          99:
+          - 3.87
+          - 4.5499945
+          90:
+          - 3.99
+          - 4.419995
+          95:
+          - 3.95
+          - 4.4699945
+        median: 4.2049947
+      '[RO007]':
+        confidenceIntervals:
+          80:
+          - 4.82
+          - 5.189995
+          99:
+          - 4.65
+          - 5.3699946
+          90:
+          - 4.77
+          - 5.2399945
+          95:
+          - 4.73
+          - 5.2899947
+        median: 5.004995
+      '[RO008]':
+        confidenceIntervals:
+          80:
+          - 5.31
+          - 5.6999946
+          99:
+          - 5.13
+          - 5.8899946
+          90:
+          - 5.26
+          - 5.7499948
+          95:
+          - 5.21
+          - 5.7999945
+        median: 5.504995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 29.82
+          - 30.579992
+          99:
+          - 29.46
+          - 30.949995
+          90:
+          - 29.72
+          - 30.689995
+          95:
+          - 29.63
+          - 30.779993
+        median: 30.204996
+      '[RO002]':
+        confidenceIntervals:
+          80:
+          - 9.95
+          - 10.459994
+          99:
+          - 9.71
+          - 10.709994
+          90:
+          - 9.88
+          - 10.529995
+          95:
+          - 9.82
+          - 10.589994
+        median: 10.204994
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 26.63
+          - 27.369995
+          99:
+          - 26.28
+          - 27.729994
+          90:
+          - 26.54
+          - 27.469995
+          95:
+          - 26.45
+          - 27.559994
+        median: 27.004993
+      '[RO004]':
+        confidenceIntervals:
+          80:
+          - 11.33
+          - 11.869995
+          99:
+          - 11.08
+          - 12.129994
+          90:
+          - 11.26
+          - 11.949995
+          95:
+          - 11.2
+          - 12.0099945
+        median: 11.604995
+    scope: "N"
+- commissioners:
+  - "RomâniaTV"
+  fieldworkEnd: "2025-07-23"
+  fieldworkStart: "2025-07-21"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.2
+          - 5.9999948
+          99:
+          - 3.45
+          - 7.0399947
+          90:
+          - 3.98
+          - 6.2799945
+          95:
+          - 3.79
+          - 6.5299945
+        median: 5.044995
+      '[RO016]':
+        confidenceIntervals:
+          80:
+          - 0.69
+          - 1.5499945
+          99:
+          - 0.42
+          - 2.1399944
+          90:
+          - 0.6
+          - 1.6999944
+          95:
+          - 0.53
+          - 1.8399944
+        median: 1.0649945
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 0.69
+          - 1.5499945
+          99:
+          - 0.42
+          - 2.1399944
+          90:
+          - 0.6
+          - 1.6999944
+          95:
+          - 0.53
+          - 1.8399944
+        median: 1.0649945
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 36.070004
+          - 40.029995
+          99:
+          - 34.14
+          - 42.049995
+          90:
+          - 35.53
+          - 40.599995
+          95:
+          - 35.05
+          - 41.089996
+        median: 38.034992
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 10.74
+          - 13.399995
+          99:
+          - 9.54
+          - 14.849995
+          90:
+          - 10.39
+          - 13.799994
+          95:
+          - 10.1
+          - 14.149995
+        median: 12.024995
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 19.37
+          - 22.689995
+          99:
+          - 17.8
+          - 24.449995
+          90:
+          - 18.92
+          - 23.179995
+          95:
+          - 18.54
+          - 23.599995
+        median: 20.994993
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 13.6
+          - 16.509995
+          99:
+          - 12.25
+          - 18.089994
+          90:
+          - 13.21
+          - 16.949995
+          95:
+          - 12.88
+          - 17.329994
+        median: 15.014994
+      '[RO025]':
+        confidenceIntervals:
+          80:
+          - 2.4
+          - 3.8199947
+          99:
+          - 1.84
+          - 4.6799946
+          90:
+          - 2.23
+          - 4.0499945
+          95:
+          - 2.09
+          - 4.2599945
+        median: 3.0549943
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 1.52
+          - 2.6999943
+          99:
+          - 1.09
+          - 3.4499943
+          90:
+          - 1.39
+          - 2.8999944
+          95:
+          - 1.29
+          - 3.0799944
+        median: 2.0549943
+      '[RO015]':
+        confidenceIntervals:
+          80:
+          - 0.69
+          - 1.5499945
+          99:
+          - 0.42
+          - 2.1399944
+          90:
+          - 0.6
+          - 1.6999944
+          95:
+          - 0.53
+          - 1.8399944
+        median: 1.0649945
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-12-20"
+  fieldworkStart: "2020-12-10"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-01-25"
+  fieldworkStart: "2025-01-21"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-03-14"
+  fieldworkStart: "2017-03-06"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2018-06-30"
+  fieldworkStart: "2018-06-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2019-07-08"
+  fieldworkStart: "2019-06-28"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "informat.ro"
+  fieldworkEnd: "2025-10-10"
+  fieldworkStart: "2025-10-06"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-09-10"
+  fieldworkStart: "2021-09-08"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Realitatea.net"
+  fieldworkEnd: "2021-06-15"
+  fieldworkStart: "2021-06-01"
+  pollingFirm: "INSOMAR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2020-05-20"
+  fieldworkStart: "2020-05-15"
+  pollingFirm: "INSCOP"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-11-24"
+  fieldworkStart: "2021-11-16"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-02-21"
+  fieldworkStart: "2019-02-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners: []
+  fieldworkEnd: "2021-05-31"
+  fieldworkStart: "2021-05-01"
+  pollingFirm: "IRES"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-07-12"
+  fieldworkStart: "2025-07-10"
+  pollingFirm: "FlashData"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 4.2
+          - 4.8399944
+          99:
+          - 3.91
+          - 5.169995
+          90:
+          - 4.12
+          - 4.9299946
+          95:
+          - 4.05
+          - 5.0199947
+        median: 4.5149946
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 1.33
+          - 1.7199944
+          99:
+          - 1.17
+          - 1.9199945
+          90:
+          - 1.28
+          - 1.7699945
+          95:
+          - 1.24
+          - 1.8199944
+        median: 1.5149945
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 37.27
+          - 38.739994
+          99:
+          - 36.550003
+          - 39.469994
+          90:
+          - 37.070004
+          - 38.93999
+          95:
+          - 36.89
+          - 39.11999
+        median: 38.004997
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 15.45
+          - 16.569994
+          99:
+          - 14.92
+          - 17.129995
+          90:
+          - 15.3
+          - 16.729994
+          95:
+          - 15.17
+          - 16.859995
+        median: 16.004993
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 17.43
+          - 18.589994
+          99:
+          - 16.87
+          - 19.179995
+          90:
+          - 17.27
+          - 18.759995
+          95:
+          - 17.13
+          - 18.899994
+        median: 18.004993
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 15.45
+          - 16.569994
+          99:
+          - 14.92
+          - 17.129995
+          90:
+          - 15.3
+          - 16.729994
+          95:
+          - 15.17
+          - 16.859995
+        median: 16.004993
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 0.4
+          - 0.63999444
+          99:
+          - 0.32
+          - 0.76999444
+          90:
+          - 0.38
+          - 0.67999446
+          95:
+          - 0.36
+          - 0.70999444
+        median: 0.51499444
+    scope: "N"
+- commissioners: []
+  fieldworkEnd: "2021-10-15"
+  fieldworkStart: "2021-10-11"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-08-30"
+  fieldworkStart: "2019-08-26"
+  pollingFirm: "Verifield"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2019-10-23"
+  fieldworkStart: "2019-10-15"
+  pollingFirm: "USR"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2022-02-19"
+  fieldworkStart: "2022-02-09"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2017-06-22"
+  fieldworkStart: "2017-06-15"
+  pollingFirm: "Avangarde"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2024-02-14"
+  fieldworkStart: "2024-02-03"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-09-28"
+  fieldworkStart: "2019-09-05"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2023-01-30"
+  fieldworkStart: "2023-01-27"
+  pollingFirm: "Atlas Intel"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "STIRIPESURSE.RO"
+  fieldworkEnd: "2018-10-01"
+  fieldworkStart: "2018-09-20"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2019-04-03"
+  fieldworkStart: "2019-03-18"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "E"
+- commissioners:
+  - "RomâniaTV"
+  fieldworkEnd: "2025-05-28"
+  fieldworkStart: "2025-05-26"
+  pollingFirm: "Sociopol"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2020-09-23"
+  fieldworkStart: "2020-09-07"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners:
+  - "Europa FM"
+  fieldworkEnd: "2018-10-31"
+  fieldworkStart: "2018-10-01"
+  pollingFirm: "IMAS"
+  responseScenarioAnalyses:
+  - scope: "N"
+- commissioners: []
+  fieldworkEnd: "2025-10-26"
+  fieldworkStart: "2025-10-14"
+  pollingFirm: "CURS"
+  responseScenarioAnalyses:
+  - resultAnalyses:
+      '[RO005]':
+        confidenceIntervals:
+          80:
+          - 3.27
+          - 4.859995
+          99:
+          - 2.62
+          - 5.7999945
+          90:
+          - 3.08
+          - 5.109995
+          95:
+          - 2.92
+          - 5.3399944
+        median: 4.0149946
+      '[RO017]':
+        confidenceIntervals:
+          80:
+          - 3.27
+          - 4.859995
+          99:
+          - 2.62
+          - 5.7999945
+          90:
+          - 3.08
+          - 5.109995
+          95:
+          - 2.92
+          - 5.3399944
+        median: 4.0149946
+      '[RO010]':
+        confidenceIntervals:
+          80:
+          - 33.16
+          - 36.989994
+          99:
+          - 31.3
+          - 38.949993
+          90:
+          - 32.63
+          - 37.529995
+          95:
+          - 32.18
+          - 38.009995
+        median: 35.054993
+      '[RO012]':
+        confidenceIntervals:
+          80:
+          - 8.92
+          - 11.349995
+          99:
+          - 7.84
+          - 12.679995
+          90:
+          - 8.61
+          - 11.709994
+          95:
+          - 8.34
+          - 12.039994
+        median: 10.084994
+      '[RO001]':
+        confidenceIntervals:
+          80:
+          - 22.38
+          - 25.809994
+          99:
+          - 20.75
+          - 27.609995
+          90:
+          - 21.92
+          - 26.309994
+          95:
+          - 21.52
+          - 26.749994
+        median: 24.064993
+      '[RO003]':
+        confidenceIntervals:
+          80:
+          - 13.61
+          - 16.479994
+          99:
+          - 12.29
+          - 18.019995
+          90:
+          - 13.23
+          - 16.909994
+          95:
+          - 12.91
+          - 17.279995
+        median: 15.004993
+      '[RO026]':
+        confidenceIntervals:
+          80:
+          - 6.11
+          - 8.179995
+          99:
+          - 5.21
+          - 9.349995
+          90:
+          - 5.85
+          - 8.499994
+          95:
+          - 5.63
+          - 8.789994
+        median: 7.104995
+    scope: "N"
