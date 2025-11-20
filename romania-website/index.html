@@ -1,0 +1,53 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <title>ASAPOP Website Romania Opinion Polls</title>
+    <link href="_css/base.css" rel="stylesheet" type="text/css"/>
+    <link href="_css/skin.css" rel="stylesheet" type="text/css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="application/javascript"> </script>
+    <script src="_js/internationalization.js" type="application/javascript"> </script>
+    <script src="_js/navigation.js" type="application/javascript"> </script>
+    <script src="_js/sorting.js" type="application/javascript"> </script>
+    <script src="_js/tooltip.js" type="application/javascript"> </script>
+  </head>
+  <body onload="initializeLanguage();">
+    <header>
+      <div class="header-left">
+        <span class="main-page"> </span>
+      </div>
+      <div class="header-right"><span class="go-to"> </span>: <select id="area-selector" onchange="moveToArea(0);">
+  <option> </option>
+  <option class="_area_ro" value="ro"> </option>
+</select> · <a class="electoral-calendar" href="calendar.html"> </a> · <a class="csv-files" href="csv.html"> </a> · <a class="statistics-page" href="statistics.html"> </a> · <span class="language"> </span>: <select id="language-selector" onchange="loadLanguage();">
+  <option value="de">Deutsch</option>
+  <option value="en">English</option>
+  <option value="eo">Esperanto</option>
+  <option value="fr">français</option>
+  <option value="nl">Nederlands</option>
+  <option value="no">norsk</option>
+</select></div>
+    </header>
+    <section>
+      <h1 class="upcoming-elections"> </h1>
+      <div class="two-svg-charts-container">
+        <div class="svg-chart-container-left">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <a href="">
+              <image height="250" href="/average.png" width="500"/>
+            </a>
+          </svg>
+        </div>
+        <div class="svg-chart-container-right">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <a href="">
+              <image height="250" href="/average.png" width="500"/>
+            </a>
+          </svg>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="privacy-statement"> </div>
+    </footer>
+  </body>
+</html>

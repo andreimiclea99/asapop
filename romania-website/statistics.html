@@ -1,0 +1,137 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <title>ASAPOP Website Romania Opinion Polls</title>
+    <link href="_css/base.css" rel="stylesheet" type="text/css"/>
+    <link href="_css/skin.css" rel="stylesheet" type="text/css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="application/javascript"> </script>
+    <script src="_js/internationalization.js" type="application/javascript"> </script>
+    <script src="_js/navigation.js" type="application/javascript"> </script>
+    <script src="_js/sorting.js" type="application/javascript"> </script>
+    <script src="_js/tooltip.js" type="application/javascript"> </script>
+  </head>
+  <body onload="initializeLanguage(); sortTable('statistics-table', 2, 'area-name', 'alphanumeric-internationalized')">
+    <header>
+      <div class="header-left">
+        <a class="main-page" href="index.html"> </a>
+      </div>
+      <div class="header-right"><span class="go-to"> </span>: <select id="area-selector" onchange="moveToArea(0);">
+  <option> </option>
+  <option class="_area_ro" value="ro"> </option>
+</select> · <a class="electoral-calendar" href="calendar.html"> </a> · <a class="csv-files" href="csv.html"> </a> · <span class="statistics-page"> </span> · <span class="language"> </span>: <select id="language-selector" onchange="loadLanguage();">
+  <option value="de">Deutsch</option>
+  <option value="en">English</option>
+  <option value="eo">Esperanto</option>
+  <option value="fr">français</option>
+  <option value="nl">Nederlands</option>
+  <option value="no">norsk</option>
+</select></div>
+    </header>
+    <section>
+      <h1 class="statistics"> </h1>
+      <table class="statistics-table" id="statistics-table">
+        <thead>
+          <tr>
+            <th class="country" onclick="sortTable('statistics-table', 2, 'area-name', 'alphanumeric-internationalized')"> </th>
+            <th class="number-of-opinion-polls-th"><span class="number-of-opinion-polls" onclick="sortTable('statistics-table', 2, 'number-of-opinion-polls', 'numeric')"> </span> (<span class="year-to-date" onclick="sortTable('statistics-table', 2, 'number-of-opinion-polls-ytd', 'numeric')"> </span>)</th>
+            <th class="number-of-response-scenarios-th"><span class="number-of-response-scenarios" onclick="sortTable('statistics-table', 2, 'number-of-response-scenarios', 'numeric')"> </span> (<span class="year-to-date" onclick="sortTable('statistics-table', 2, 'number-of-response-scenarios-ytd', 'numeric')"> </span>)</th>
+            <th class="number-of-result-values-th"><span class="number-of-result-values" onclick="sortTable('statistics-table', 2, 'number-of-result-values', 'numeric')"> </span> (<span class="year-to-date" onclick="sortTable('statistics-table', 2, 'number-of-result-values-ytd', 'numeric')"> </span>)</th>
+            <th class="most-recent-date-th">
+              <span class="most-recent-date" onclick="sortTable('statistics-table', 2, 'most-recent-date', 'alphanumeric')"> </span>
+              <sup>
+                <a href="#footnote-1">1</a>
+              </sup>
+            </th>
+          </tr>
+          <tr>
+            <td class="total"> </td>
+            <td class="statistics-total-td">219 (21)</td>
+            <td class="statistics-total-td">219 (21)</td>
+            <td class="statistics-total-td">1<span class="thousands-separator"> </span>693 (175)</td>
+            <td class="statistics-total-td">2025-11-02</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr data-area-name-de="Rumänien" data-area-name-en="Romania" data-area-name-eo="Rumanio" data-area-name-fr="Roumanie" data-area-name-nl="Roemenië" data-area-name-no="Romania" data-most-recent-date="3-2025-11-02" data-number-of-opinion-polls="219" data-number-of-opinion-polls-ytd="21" data-number-of-response-scenarios="219" data-number-of-response-scenarios-ytd="21" data-number-of-result-values="1693" data-number-of-result-values-ytd="175">
+            <td>
+              <a class="_area_ro" href="ro/index.html"> </a>
+            </td>
+            <td class="statistics-value-td">219 (21)</td>
+            <td class="statistics-value-td">219 (21)</td>
+            <td class="statistics-value-td">1<span class="thousands-separator"> </span>693 (175)</td>
+            <td class="statistics-value-td"><span class="possibly-out-of-date-color">●</span> 2025-11-02</td>
+          </tr>
+        </tbody>
+      </table>
+      <p id="footnote-1"><sup>1</sup> <span class="qualification-of-currency"> </span>: <span class="up-to-date-color">■</span> <span class="up-to-date"> </span> (P ≥ 80 %), <span class="probably-up-to-date-color">●</span> <span class="probably-up-to-date"> </span> (80 % &gt; P ≥ 50 %), <span class="possibly-out-of-date-color">●</span> <span class="possibly-out-of-date"> </span> (50 % &gt; P ≥ 20 %), <span class="probably-out-of-date-color">▲</span> <span class="probably-out-of-date"> </span> (20 % &gt; P ≥ 5 %), <span class="out-of-date-color">▲</span> <span class="out-of-date"> </span> (5 % &gt; P).</p>
+      <div class="two-svg-charts-container">
+        <div class="svg-chart-container-right">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="currency" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="possibly-out-of-date-color" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, 'possibly-out-of-date', '1', '1', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, 'possibly-out-of-date', '1', '1', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">●</text>
+          </svg>
+        </div>
+        <div class="svg-chart-container-left">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="currency" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="possibly-out-of-date-color" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, 'possibly-out-of-date', '1', '1', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, 'possibly-out-of-date', '1', '1', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">●</text>
+          </svg>
+        </div>
+      </div>
+      <div class="two-svg-charts-container">
+        <div class="svg-chart-container-left">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="number-of-opinion-polls" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="pie-chart-1" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, '_area_ro', '219', '219', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, '_area_ro', '219', '219', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">RO</text>
+          </svg>
+        </div>
+        <div class="svg-chart-container-right">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="number-of-opinion-polls-ytd" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="pie-chart-1" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, '_area_ro', '21', '21', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, '_area_ro', '21', '21', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">RO</text>
+          </svg>
+        </div>
+      </div>
+      <div class="two-svg-charts-container">
+        <div class="svg-chart-container-left">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="number-of-response-scenarios" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="pie-chart-1" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, '_area_ro', '219', '219', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, '_area_ro', '219', '219', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">RO</text>
+          </svg>
+        </div>
+        <div class="svg-chart-container-right">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="number-of-response-scenarios-ytd" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="pie-chart-1" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, '_area_ro', '21', '21', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, '_area_ro', '21', '21', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">RO</text>
+          </svg>
+        </div>
+      </div>
+      <div class="two-svg-charts-container">
+        <div class="svg-chart-container-left">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="number-of-result-values" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="pie-chart-1" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, '_area_ro', '1693', '1693', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, '_area_ro', '1693', '1693', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">RO</text>
+          </svg>
+        </div>
+        <div class="svg-chart-container-right">
+          <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 250">
+            <text class="number-of-result-values-ytd" dominant-baseline="middle" font-size="20" text-anchor="middle" x="250" y="10"> </text>
+            <circle class="pie-chart-1" cx="250" cy="125" onmousemove="showPieChartTooltip(evt, '_area_ro', '175', '175', '100');" onmouseout="hideTooltip('pieChartTooltip');" r="100"/>
+            <text class="pieChartSymbol" dominant-baseline="middle" font-size="12" onmousemove="showPieChartTooltip(evt, '_area_ro', '175', '175', '100');" onmouseout="hideTooltip('pieChartTooltip');" text-anchor="middle" x="250" y="125">RO</text>
+          </svg>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="privacy-statement"> </div>
+    </footer>
+    <div class="tooltip" id="pieChartTooltip" style="position: absolute; display: none;"> <span id="pieChartTooltipLabel"> </span><br/><span id="pieChartTooltipNumerator"> </span>/<span id="pieChartTooltipDenominator"> </span> (<span id="pieChartTooltipPercentage"> </span>%)</div>
+  </body>
+</html>
