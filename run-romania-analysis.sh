@@ -27,10 +27,10 @@ echo "Build successful!"
 echo ""
 
 # Run the analysis
-echo "Running analysis on romania-example.ropf..."
+echo "Running analysis on ro.ropf..."
 java -jar target/asapop-1.0-SNAPSHOT-jar-with-dependencies.jar \
   analyze \
-  romania-example.ropf \
+  ro.ropf \
   romania-election-data.yaml \
   romania-results.yaml
 
@@ -46,5 +46,5 @@ echo "  cat romania-results.yaml"
 echo ""
 echo "To convert to CSV format:"
 echo "  java -jar target/asapop-1.0-SNAPSHOT-jar-with-dependencies.jar \\"
-echo "    convert romania-example.ropf romania.csv PSD PNL AUR USR UDMR"
+echo "    convert ro.ropf romania.csv PSD PNL AUR USR UDMR"
 echo ""
