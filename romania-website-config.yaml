@@ -39,7 +39,3 @@ areaConfigurations:
     de: "Rumänien"
     fr: "Roumanie"
     nl: "Roemenië"
-
-widgetsConfiguration:
-  tableFontFamily: "sans-serif"
-  tableStylesheets: []
