@@ -1,0 +1,13 @@
+---
+id: "romania-polls"
+name: "Romania Opinion Polls"
+
+areaConfigurations:
+- areaCode: "ro"
+  elections:
+    national:
+      dates:
+        18: "2020-12-06"
+        19: "≤2024-12-31"
+  translations:
+    en: "Romania"
