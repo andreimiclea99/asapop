@@ -1,0 +1,35 @@
+---
+# SAPOR Configuration for Romania
+# Maps electoral list IDs to party names for SAPOR analysis
+
+area: "RO"
+
+# Party mappings
+mapping:
+- directMapping:
+    source: "RO001"
+    target: "Partidul Social Democrat (S&D)"
+- directMapping:
+    source: "RO003"
+    target: "Partidul Național Liberal (EPP)"
+- directMapping:
+    source: "RO010"
+    target: "Alianța pentru Unirea Românilor (ECR)"
+- directMapping:
+    source: "RO012"
+    target: "Uniunea Salvați România (RE)"
+- directMapping:
+    source: "RO005"
+    target: "Uniunea Democrată Maghiară din România (EPP)"
+- directMapping:
+    source: "RO017"
+    target: "Partidul S.O.S. România (*)"
+- directMapping:
+    source: "RO021"
+    target: "Coaliția Națională pentru România (*)"
+- directMapping:
+    source: "RO019"
+    target: "Alianța Dreapta Unită (*)"
+
+# Last election date (2020 parliamentary elections)
+lastElectionDate: "2020-12-06"
