@@ -7,6 +7,13 @@ name: "Romania Opinion Polls"
 
 areaConfigurations:
 - areaCode: "ro"
+  csvConfiguration:
+    electoralListIds:
+    - "RO001"
+    - "RO003"
+    - "RO010"
+    - "RO012"
+    - "RO005"
   elections:
     european:
       dates:
