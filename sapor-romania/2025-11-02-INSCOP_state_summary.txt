@@ -1,0 +1,4 @@
+ErrorEstimate=0.0068585733372837215
+NumberOfSimulations=16384
+NumberOfDataPoints=16904
+SpaceSize=2346344867100
